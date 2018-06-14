@@ -138,4 +138,5 @@ int main()
 	list = addNodeSorted(list, createNode(createBook(1999, "Picnic la marginea drumului")));
 	list = addNodeSorted(list, createNode(createBook(2018, "Biblia")));
 	printList(list);
+	return 0;
 }
