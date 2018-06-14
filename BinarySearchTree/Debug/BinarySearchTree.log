@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\kovaroberik\documents\visual studio 2015\projects\datastructures\binarysearchtree\main.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  BinarySearchTree.vcxproj -> C:\Users\kovaroberik\Documents\Visual Studio 2015\Projects\DataStructures\Debug\BinarySearchTree.exe
+  BinarySearchTree.vcxproj -> C:\Users\kovaroberik\Documents\Visual Studio 2015\Projects\DataStructures\Debug\BinarySearchTree.pdb (Full PDB)
