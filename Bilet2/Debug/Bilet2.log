@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\kovaroberik\documents\visual studio 2015\projects\datastructures\bilet2\main.cpp(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kovaroberik\documents\visual studio 2015\projects\datastructures\bilet2\main.cpp(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kovaroberik\documents\visual studio 2015\projects\datastructures\bilet2\main.cpp(153): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kovaroberik\documents\visual studio 2015\projects\datastructures\bilet2\main.cpp(155): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\kovaroberik\documents\visual studio 2015\projects\datastructures\bilet2\main.cpp(160): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+  Bilet2.vcxproj -> C:\Users\kovaroberik\Documents\Visual Studio 2015\Projects\DataStructures\Debug\Bilet2.exe
+  Bilet2.vcxproj -> C:\Users\kovaroberik\Documents\Visual Studio 2015\Projects\DataStructures\Debug\Bilet2.pdb (Full PDB)
