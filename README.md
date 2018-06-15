@@ -1,2 +1,2 @@
-# sdd-2018
+# Data Structures 2018
 ASE Data Structures exam subject implementation
