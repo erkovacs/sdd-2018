@@ -99,8 +99,8 @@ void postOrderPrintTree(Node * node)
 {
 	if (node != NULL)
 	{
-		inOrderPrintTree(node->left);
-		inOrderPrintTree(node->right);
+		postOrderPrintTree(node->left);
+		postOrderPrintTree(node->right);
 		printBook(node->data);
 	}
 }
@@ -111,8 +111,8 @@ void preOrderPrintTree(Node * node)
 	if (node != NULL)
 	{
 		printBook(node->data);
-		inOrderPrintTree(node->left);
-		inOrderPrintTree(node->right);
+		preOrderPrintTree(node->left);
+		preOrderPrintTree(node->right);
 	}
 }
 
